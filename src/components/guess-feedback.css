@@ -1,0 +1,13 @@
+#feedback {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 45px;
+    font-family: 'Montserrat', sans-serif;
+    border: 1px solid red;
+    background-color: red;
+    color: white;
+    width: 200px;
+    padding: 10px;
+}

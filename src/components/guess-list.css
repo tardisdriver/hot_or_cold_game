@@ -1,0 +1,20 @@
+.guessList {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: flex-start;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 300px;
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.guess {
+    flex: 0;
+    margin: 5px;
+    padding: 6px;
+    border: 1px solid blue;
+    background-color: lightblue;
+    border-radius: 10px;
+}

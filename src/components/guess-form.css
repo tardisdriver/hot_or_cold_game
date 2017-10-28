@@ -1,0 +1,28 @@
+form {
+    margin: auto;
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+span {
+    display: block;
+    margin: auto;
+    text-align: center;
+}
+
+#userGuess {
+    display: block;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 35px;
+    width: 120px;
+}
+
+#guessButton {
+    margin-top: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 20px;
+}

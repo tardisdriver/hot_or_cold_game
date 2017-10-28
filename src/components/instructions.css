@@ -1,0 +1,12 @@
+.instructions {
+    border: 2px solid blue;
+    background-color: lightblue;
+    width: 300px;
+    border-radius: 6px;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 10px;
+    text-align: center;
+    font-size: 15px;
+    font-family: 'Montserrat', sans-serif;
+}
